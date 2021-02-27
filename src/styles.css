@@ -1,0 +1,62 @@
+.main-container{
+  border: 1px solid rgb(165, 231, 231);
+  margin: auto;
+  padding: 5px;
+  width: 250px;
+  background-color: rgb(221, 241, 241);
+  font-family: sans-serif;
+}
+
+.numbers{
+  color: rgb(85, 31, 121);
+  font-weight: bold;
+}
+h1{
+  color: rgb(85, 31, 121);
+  text-align: center;
+}
+.delete-btn{
+  color: rgb(85, 31, 121);
+  background-color: rgba(32, 34, 36, 0);
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  float: right;
+  font-size: 16px;
+  width: 8%;
+ 
+}
+.btn{
+  padding: 5px 20px;
+  margin: 5px;
+  background-color: rgb(85, 31, 121);
+  color: white;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, 0.178);
+  border-radius: 3px;
+}
+
+.btn:hover{
+  padding: 5px 20px;
+  margin: 5px;
+  background-color: rgb(149, 49, 216);
+  color: white;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, 0.178);
+  border-radius: 3px;
+}
+
+.text-input{
+  height: 20px;
+}
+
+li{
+  list-style: none;
+  border-bottom: 2px solid rgb(85, 31, 121);
+  margin: 2px 20px 2px 5px;
+  padding: 2px;
+}
+
+ul{
+  padding: 0;
+}
